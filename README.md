@@ -70,5 +70,6 @@ A tabular view provides:
 .Support strategic decision-making with actionable insights
 
 #Screenshots
-dashboard looks like:
+
+dashboard looks like:![Dashboard preview].(https://github.com/Faizsheikhu815/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
 
